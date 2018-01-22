@@ -1841,7 +1841,7 @@ msgstr "资产组授权包含资产"
 
 #: templates/_header_bar.html:14
 msgid "Welcome to use Jumpserver system"
-msgstr "欢迎使用Jumpserver开源跳板机系统"
+msgstr "欢迎使用云基础平台跳板机系统"
 
 #: templates/_header_bar.html:18
 msgid "Help"
@@ -2384,7 +2384,7 @@ msgstr "上一步"
 
 #: users/templates/users/first_login_done.html:30
 msgid "Welcome to use jumpserver, visit "
-msgstr "欢迎使用Jumpserver开源跳板机系统"
+msgstr "欢迎使用云基础平台跳板机系统"
 
 #: users/templates/users/first_login_done.html:31
 msgid "Use guide"
